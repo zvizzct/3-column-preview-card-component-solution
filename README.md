@@ -17,8 +17,8 @@ Users should be able to:
 
 ### Links
 
--- [- Solution URL:](https://github.com/zvizzct/3-column-preview-card-component-solution)
--- [- Live Site URL:](https://zvizzct.github.io/3-column-preview-card-component-solution/)
+- [- Solution URL:](https://github.com/zvizzct/3-column-preview-card-component-solution)
+- [- Live Site URL:](https://zvizzct.github.io/3-column-preview-card-component-solution/)
 
 ## My process
 
